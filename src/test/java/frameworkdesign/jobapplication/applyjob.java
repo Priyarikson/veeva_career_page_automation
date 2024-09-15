@@ -29,7 +29,7 @@ public class applyjob {
 		Set<String> allWindowsId = driver.getWindowHandles();
 		System.out.println(allWindowsId);
 		Iterator<String> windows = allWindowsId.iterator();
-		String parentId = windows.next();
+		//String parentId = windows.next();
 		String childId = windows.next();
 
 		driver.switchTo().window(childId);
