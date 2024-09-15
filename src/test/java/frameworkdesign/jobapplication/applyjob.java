@@ -10,7 +10,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//veeva job application
+//veeva page automation
 public class applyjob {
 	public static void main(String[] args) throws Exception {
 
